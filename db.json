@@ -1,6 +1,7 @@
 {
   "winners": [
     {
+      "id": 1,
       "category": "Category 1",
       "name": "Rick Sanchez",
       "company": "Abadango",
@@ -8,6 +9,7 @@
       "siteLocation": "Earth"
     },
     {
+      "id": 2,
       "category": "Category 1",
       "name": "Alien Googah",
       "company": "Anatomy",
@@ -15,6 +17,7 @@
       "siteLocation": "Earth (Replacement Dimension)"
     },
     {
+      "id": 3,
       "category": "Category 1",
       "name": "Amish Cyborg",
       "company": "Top Secret",
@@ -22,6 +25,7 @@
       "siteLocation": "Earth"
     },
     {
+      "id": 4,
       "category": "Category 1",
       "name": "Antenna Rick",
       "company": "Satellite",
@@ -29,6 +33,7 @@
       "siteLocation": "Earth"
     },  
     {
+      "id": 5,
       "category": "Category 1",
       "name": "Ant in my Eyes Johnson",
       "company": "Optima",
@@ -36,6 +41,7 @@
       "siteLocation": "Earth"
     },
     {
+      "id": 6,
       "category": "Category 1",
       "name": "Adjudicator Rick",
       "company": "Unknown",
@@ -43,6 +49,7 @@
       "siteLocation": "Citadel Of Ricks"
     },
     {
+      "id": 7,
       "category": "Category 1",
       "name": "Alan Rails",
       "company": "Unknown",
@@ -50,6 +57,7 @@
       "siteLocation": "Earth"
     },
     {
+      "id": 8,
       "category": "Category 1",
       "name": "Jerry Smith",
       "company": "Earth",
@@ -57,6 +65,7 @@
       "siteLocation": "Earth"
     },
     {
+      "id": 9,
       "category": "Category 1",
       "name": "Beth Smith",
       "company": "Abadango",
@@ -64,6 +73,7 @@
       "siteLocation": "Earth"
     },
     {
+      "id": 10,
       "category": "Category 1",
       "name": "Summer Smith",
       "company": "Abadango",
@@ -71,6 +81,7 @@
       "siteLocation": "Earth"
     },
     {
+      "id": 11,
       "category": "Category 1",
       "name": "Annie",
       "company": "Earth (C-137)",
@@ -78,6 +89,7 @@
       "siteLocation": "Anatomy Park"
     },
     {
+      "id": 12,
       "category": "Category 1",
       "name": "Alexander",
       "company": "Earth (C-137)",
@@ -85,6 +97,7 @@
       "siteLocation": "Earth"
     },
     {
+      "id": 13,
       "category": "Category 1",
       "name": "Albert Einstein",
       "company": "Earth (C-137)",
