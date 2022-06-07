@@ -2,6 +2,7 @@
   "winners": [
     {
       "id": 1,
+      "image": "https://res.cloudinary.com/mtm-agency/image/upload/v1654594137/clients/nhbc/winner-image_skb13x.jpg",
       "category": "Category 1",
       "name": "Rick Sanchez",
       "company": "Abadango",
