@@ -2,6 +2,8 @@
   "winners": [
     {
       "id": 1,
+      "awardType": "Quality Award",
+      "region": "Central",
       "image": "https://res.cloudinary.com/mtm-agency/image/upload/v1654594137/clients/nhbc/winner-image_skb13x.jpg",
       "category": "Category 1",
       "name": "Rick Sanchez",
@@ -11,6 +13,8 @@
     },
     {
       "id": 2,
+      "awardType": "Quality Award",
+      "region": "Central",
       "category": "Category 1",
       "name": "Alien Googah",
       "company": "Anatomy",
@@ -19,6 +23,8 @@
     },
     {
       "id": 3,
+      "awardType": "Quality Award",
+      "region": "Central",
       "category": "Category 1",
       "name": "Amish Cyborg",
       "company": "Top Secret",
@@ -27,6 +33,8 @@
     },
     {
       "id": 4,
+      "awardType": "Quality Award",
+      "region": "Central",
       "category": "Category 1",
       "name": "Antenna Rick",
       "company": "Satellite",
@@ -35,6 +43,8 @@
     },  
     {
       "id": 5,
+      "awardType": "Quality Award",
+      "region": "Central",
       "category": "Category 1",
       "name": "Ant in my Eyes Johnson",
       "company": "Optima",
@@ -43,6 +53,8 @@
     },
     {
       "id": 6,
+      "awardType": "Quality Award",
+      "region": "Central",
       "category": "Category 1",
       "name": "Adjudicator Rick",
       "company": "Unknown",
@@ -51,6 +63,8 @@
     },
     {
       "id": 7,
+      "awardType": "Quality Award",
+      "region": "Central",
       "category": "Category 1",
       "name": "Alan Rails",
       "company": "Unknown",
@@ -59,6 +73,8 @@
     },
     {
       "id": 8,
+      "awardType": "Quality Award",
+      "region": "Central",
       "category": "Category 1",
       "name": "Jerry Smith",
       "company": "Earth",
@@ -67,6 +83,8 @@
     },
     {
       "id": 9,
+      "awardType": "Quality Award",
+      "region": "Central",
       "category": "Category 1",
       "name": "Beth Smith",
       "company": "Abadango",
@@ -75,6 +93,8 @@
     },
     {
       "id": 10,
+      "awardType": "Quality Award",
+      "region": "Central",
       "category": "Category 1",
       "name": "Summer Smith",
       "company": "Abadango",
@@ -83,6 +103,8 @@
     },
     {
       "id": 11,
+      "awardType": "Quality Award",
+      "region": "Central",
       "category": "Category 1",
       "name": "Annie",
       "company": "Earth (C-137)",
@@ -91,6 +113,8 @@
     },
     {
       "id": 12,
+      "awardType": "Quality Award",
+      "region": "Central",
       "category": "Category 1",
       "name": "Alexander",
       "company": "Earth (C-137)",
@@ -99,6 +123,8 @@
     },
     {
       "id": 13,
+      "awardType": "Quality Award",
+      "region": "Central",
       "category": "Category 1",
       "name": "Albert Einstein",
       "company": "Earth (C-137)",
